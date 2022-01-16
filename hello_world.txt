@@ -1,0 +1,4 @@
+git status
+cd ..
+git status
+i be boy
